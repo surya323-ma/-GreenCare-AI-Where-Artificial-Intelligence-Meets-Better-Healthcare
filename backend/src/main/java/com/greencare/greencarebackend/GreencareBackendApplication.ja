@@ -1,0 +1,12 @@
+package com.greencare.greencarebackend;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class GreencareBackendApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(GreencareBackendApplication.class, args);
+    }
+}
